@@ -1,0 +1,10 @@
+TEST: Make a Tier List Ranking of a topic of your choosing. You must rank a minimum of 6 items by adding them to the 'tier' divs. You will not need to write CSS in this test (but you will still need to look at it). 
+
+Follow the instructions below to complete the test. 
+
+1: Pick a topic to rank (i.e. Pokemon, Video Games, etc.) and change the title of the site to match.
+
+2: Make the background-color of each tier rank work (i.e. 'S', 'A', etc.). Do this by adding an ID to each element with class='tier'. You can see what the IDs should be by looking at the CSS style that is already there. Do not change any CSS. 
+
+3: Add in your items. Do this by making a div with the class of 'item' for each item that you add to the list. Each item should have an image inside and some text. 
+
